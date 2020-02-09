@@ -10,11 +10,6 @@ Integrierte Entwicklungsumgebungen (IDE) beschleunigen die Entwicklung von quali
 
 Dieser Kurs gibt eine umfangreiche Einführung in Visual Studio. Er versetzt Sie in die Lage die Visual Studio Werkzeuge und Funktionen zu erkunden, und Visual Studio gemäß Ihrerer Anforderungen zu konfigurieren. André Krämer zeigt Ihnen basierend auf einem Training von Walt Ritscher, wie Sie die Versionsverwaltung mit Git nutzen, den Editor anpassen, effizizienter mit der Intellisense und Codesausschnitten arbeiten und die eingebauten Werkzeuge zum Umgestalten (refactoren) oder Debuggen von Quellcode einsetzen.
 
-**
-
-
-Integrated development environments (IDE) make it faster and easier to write high-quality code. Visual Studio, the IDE from Microsoft, has every tool you need to be a productive developer—regardless of your language, programming style, or project type. This course offers a comprehensive introduction to Visual Studio, allowing you to explore the tools and features and configure Visual Studio to support your needs. Instructor Walt Ritscher shows how to implement version control with Git, adjust the editor preferences, code more efficiently with IntelliSense and code snippets, and use the built-in tools in Visual Studio for refactoring and debugging code. Plus, learn how to make Visual Studio even more robust by capitalizing on the library of free and paid extensions in the Visual Studio Marketplace.
-
 **Inhalte:**
 *	Visual Studio installieren und konfigurieren
 * Mit Dateien und Projektmappen arbeiten
