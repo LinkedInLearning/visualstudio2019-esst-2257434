@@ -1,57 +1,56 @@
-# Visual Studio Essential Training (2019 Revision)
+# Visual Studio 2019 Grundkurs
 
-This is the repository for the **LinkedIn Learning**  [Visual Studio Essential Training](https://www.linkedin.com/learning/visual-studio-2019-essential-training/working-with-source-control-in-visual-studio) course. The full course is available from [LinkedIn Learning](https://linkedin.com/learning).
+Dies ist das Repository für den **LinkedIn Learning** Visual Studio 2019 Grundkurs. Es handelt sich hierbei um die offizielle deutsche Adaption des englischen **LinkedIn Learning** 
+  [Visual Studio Essential Training](https://www.linkedin.com/learning/visual-studio-2019-essential-training/working-with-source-control-in-visual-studio) von Walt Ritscher. Beide Kurse sind bei [LinkedIn Learning](https://linkedin.com/learning) erhältlich.
 
-## About this course
-> _Learn the essentials of Visual Studio, the integrated development environment from Microsoft. Unlock the power of Visual Studio tools for writing, refactoring, and debugging code._
+## Über diesen Kurs
+> _Lernen Sie die Grundlagen von Visual Studio, der integrierten Entwicklungsumgebung (IDE) von Microsoft._
+
+Integrierte Entwicklungsumgebungen (IDE) beschleunigen die Entwicklung von qualitativ hochwertigem Quellcode. Visual Studio, die IDE von Microsoft, bietet Ihnen eine vielzahl von Werkzeugen zur produktiven Entwicklung, unabhängig von der Programmiersprache, dem Programmierstil oder dem Projekttyp.
+
+Dieser Kurs gibt eine umfangreiche Einführung in Visual Studio. Er versetzt Sie in die Lage die Visual Studio Werkzeuge und Funktionen zu erkunden, und Visual Studio gemäß Ihrerer Anforderungen zu konfigurieren. André Krämer zeigt Ihnen basierend auf einem Training von Walt Ritscher, wie Sie die Versionsverwaltung mit Git nutzen, den Editor anpassen, effizizienter mit der Intellisense und Codesausschnitten arbeiten und die eingebauten Werkzeuge zum Umgestalten (refactoren) oder Debuggen von Quellcode einsetzen.
+
+**
+
 
 Integrated development environments (IDE) make it faster and easier to write high-quality code. Visual Studio, the IDE from Microsoft, has every tool you need to be a productive developer—regardless of your language, programming style, or project type. This course offers a comprehensive introduction to Visual Studio, allowing you to explore the tools and features and configure Visual Studio to support your needs. Instructor Walt Ritscher shows how to implement version control with Git, adjust the editor preferences, code more efficiently with IntelliSense and code snippets, and use the built-in tools in Visual Studio for refactoring and debugging code. Plus, learn how to make Visual Studio even more robust by capitalizing on the library of free and paid extensions in the Visual Studio Marketplace.
 
-**Topics include:*
-*	Installing and configuring Visual Studio
-* Working with files and projects
-* Adding a project to Git
-* Using checkout to open files from Git
-* Configuring editor settings
-* Writing code in the editor
-* Using IntelliSense and snippets
-* Change tracking code
+**Inhalte:**
+*	Visual Studio installieren und konfigurieren
+* Mit Dateien und Projektmappen arbeiten
+* Projekte zu Git hinzufügen
+* Projekte von Git Repositories abrufen
+* Editoreinstellungen konfigurieren
+* Code im Editor schreiben
+* Intellisense nutzen
+* Codeänderungen nachverfolgen
 * Refactoring
-* Formatting code
-* Exploring classes
-* Finding references
-* Debugging code
-* Adding Visual Studio extensions
+* Code formatieren
+* Referenzen finden
+* Code debuggen
+* Visual Studio Extensions installieren
 
 
-## Zip Files
-All the examples for this course are available to you as exercise files. The exercises for the *first half* of the course can be downloaded from the course page.  If you are signed in to your account, you can download the zip file. In the *second half* of the course the remainder of the exercise files are available from this LinkedIn Learning  repository
+## Zip Dateien
+Alle im Code gezeigten Beispiele sind für Sie als Übungsdateien verfügbar. Die Übungen für die *erste Hälfte* des Kurses können
+von der Kursseite herunter geladen werden. Dazu müssen Sie mit Ihrem LinkedIn Learning Konto angemeldet sein. Die Übungsdateien
+für die zweite Hälfte des Kurses können über dieses Git Repository bezogen werden.
+
 ## Branches
+Die Git Branches sind passend zu den Videos im Kurs strukturiert. Die Namenskonvention lautet `Kapitel#-Video#`. Der Branch `01-03` beinhaltet zum Beispiel die Übungen für das dritte Video im zweiten Kapitel. Einige Branches haben einen Anfangsstatus (`04-01`) und einen Endstatus (`04-01e`). Der Branch mit dem `e` am Ende beinhaltet in diesem Fall stets den Code der am Ende des Videos zu sehen ist.
+Der `master` Branch beinhaltet den initialen Quellcode und wird nicht für die Übungen innerhalb des Trainings genutzt.
 
-The branches are structured to correspond to the videos in the course. The naming convention is `chapter#-video#`. As an example, the branch named `02-03` corresponds to the second chapter and the third video in that chapter.
-Some branches will have a beginning state (`04-01`) and an end state (`04-01e`). The end state videos use `e` for "end" and contains the code as it is at the end of the video. The `master` branch holds the the initial state of the course and is not used for exercises during the course.
-## Installing
-To use these exercise files [install Visual Studio](https://visualstudio.microsoft.com/). For this course any edition is sufficient (Community, Professional, Enterprise)
+## Installation
+Um diese Übungsdateien verwenden zu können müssen Sie  [Visual Studio installieren](https://visualstudio.microsoft.com/). Die Beispiele können mit jeder verfügbaren Edition (Community, Professional, Enterprise) bearbeitet werden.
 
-## About our Visual Studio courses
-This is a refreshed version of our Visual Studio Essential series. 
-To discover additional content not covered in this course please enjoy our other **LinkedIn Learning** Visual Studio courses.
-1. [Visual Studio Tips](https://www.linkedin.com/learning/visual-studio-developer-tips/open-the-solution-from-team-explorer)
-2. [Visual Studio Tips for Web Developers
-](https://www.linkedin.com/learning/visual-studio-tips-for-web-developers/view-svg-files-in-the-ide)
-3. [Essential Training: 11 Data Tools](https://www.linkedin.com/learning/visual-studio-essential-training-11-data-tools)
-4. [Essential Training: 10 Protecting Your Code Base with Source Control Providers](https://www.linkedin.com/learning/visual-studio-essential-training-10-protecting-your-code-base-with-source-control-providers)
-5. [Essential Training: 09 Unit Tests](https://www.linkedin.com/learning/visual-studio-essential-training-09-unit-tests)
-6. [Essential Training: 08 Extend and Customize the Visual Studio Environment](https://www.linkedin.com/learning/visual-studio-essential-training-08-extend-and-customize-the-visual-studio-environment)
-7. [Essential Training: 07 Understanding Project Types
-](https://www.linkedin.com/learning/visual-studio-essential-training-07-understanding-project-types)
+## Über den Autor - André Krämer
+Sie finden [weitere Kurse von André Krämer](https://www.linkedin.com/learning/instructors/andre-kramer) auf LinkedIn Learning.  Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/andrekraemer?trk=lil_instructor) und [Twitter](https://twitter.com/codemurai). 
 
-8. [Essential Training: 04 Surveying the Programming Languages
-](https://www.linkedin.com/learning/visual-studio-essential-training-04-surveying-the-programming-languages/
-)
 
-## About the Instructor - Walt Ritscher
-Check out my [other courses](https://www.linkedin.com/learning/instructors/walt-ritscher) on LinkedIn Learning.  Follow me on [LinkedIn](https://www.linkedin.com/in/waltritscher/?trk=lil_course) and [Twitter](https://twitter.com/waltritscher). 
+![Profilbild André Krämer](https://cdn.lynda.com/authors/2324878_200x200_thumb.jpg)
+
+## Über den Autor - Walt Ritscher
+Sie finden [weitere Kurse von Walt Ritscher](https://www.linkedin.com/learning/instructors/walt-ritscher) auf LinkedIn Learning.  Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/waltritscher/?trk=lil_course) und [Twitter](https://twitter.com/waltritscher). 
 
 
 ![Walt Ritscher Headshot](https://38ydkq.dm.files.1drv.com/y4moADNYVNnmGDQCVwkufdGJmbpNZ-ym19j09TtRSOJpMSRFbMVFrRsM7DNZ5DRAY6tb1zsk_Df8ESybhbWypqCa8DXTuGbo4oAYE36t27l2LRgiGL42VVKEksULNm076nZQRfaL_Ew2cDw0V8IwcoztB46_RSn6biJd33elOHTDlDC6jy5kdTc7P8HW_F6TdSb?width=461&height=461&cropmode=none)
