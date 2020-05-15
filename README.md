@@ -1,7 +1,6 @@
 # Visual Studio 2019 Grundkurs
 
-Dies ist das Repository für den Kurs Visual Studio 2019 Grundkurs auf **LinkedIn Learning**. Es handelt sich hierbei um die offizielle deutsche Adaption des englischsprachigen Kurses  
-  [Visual Studio Essential Training](https://www.linkedin.com/learning/visual-studio-2019-essential-training/working-with-source-control-in-visual-studio) von Walt Ritscher. Beide Kurse sind bei [LinkedIn Learning](https://linkedin.com/learning) erhältlich.
+Dies ist das Repository für den Kurs Visual Studio 2019 Grundkurs auf **LinkedIn Learning**. Es handelt sich hierbei um die offizielle deutsche Adaption des englischsprachigen Kurses [Visual Studio Essential Training](https://www.linkedin.com/learning/visual-studio-2019-essential-training/working-with-source-control-in-visual-studio) von Walt Ritscher. Beide Kurse sind bei [LinkedIn Learning](https://linkedin.com/learning) erhältlich.
 
 ## Über diesen Kurs
 > _Lernen Sie die Grundlagen von Visual Studio, der integrierten Entwicklungsumgebung (IDE) von Microsoft._
