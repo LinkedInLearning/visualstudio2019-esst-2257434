@@ -51,5 +51,5 @@ Sie finden [weitere Kurse von Walt Ritscher](https://www.linkedin.com/learning/i
 
 ![Walt Ritscher Headshot](https://38ydkq.dm.files.1drv.com/y4moADNYVNnmGDQCVwkufdGJmbpNZ-ym19j09TtRSOJpMSRFbMVFrRsM7DNZ5DRAY6tb1zsk_Df8ESybhbWypqCa8DXTuGbo4oAYE36t27l2LRgiGL42VVKEksULNm076nZQRfaL_Ew2cDw0V8IwcoztB46_RSn6biJd33elOHTDlDC6jy5kdTc7P8HW_F6TdSb?width=461&height=461&cropmode=none)
 
-[tn-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQGXZL_KJMtraw/learning-public-crop_675_1200/0/1628887765186?e=1646960400&v=beta&t=qCFrVRpDsKG0QhiFqze-SYQbnHroGSdZrU3YBDwwkWs
+[tn-url]: https://cdn.lynda.com/course/2257434/2257434-1591098467089-16x9.jpg
 
